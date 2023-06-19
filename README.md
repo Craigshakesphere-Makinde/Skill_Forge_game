@@ -1,2 +1,2 @@
 # Skill_Forge_game
-A Pretty basic game
+An Action Thrilling Game
