@@ -4,7 +4,10 @@ An Action Thrilling Game
 
 # How the games work
 
-#The Assets for the File are in The Google Drive
-#This is because the File is too large but I uploaded the game and files needed for the game to run
+# The Assets for the File are in The Google Drive
+*
+*
+*
+# This is because the File is too large but I uploaded the game and files needed for the game to run
 
-#Every Instruction needed to run the game was included in the game user interface
+# Every Instruction needed to run the game was included in the game user interface
