@@ -61,8 +61,6 @@ sysinfo.txt
 *.unitypackage
 *.app
 
-
-
 # Crashlytics generated file
 crashlytics-build.properties
 
@@ -70,51 +68,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-[Aa]ssets/[Ss]treamingAssets/aa.meta
-[Aa]ssets/[Ss]treamingAssets/aa/*
-
-
-#I added this so as to only push the scripts
-
-*.prefab
-*.unity
-*.mat
-*.asset
-*.anim
-*.controller
-*.png
-*.jpg
-*.tga
-*.mp3
-*.wav
-*.ttf
-*.otf
-*.dll
-*.json
-*.xml
-*.shader
-*.meta
-*.fbx
-*.physicsMaterial2D
-*.overrideController
-*.unitypackage
-*.bytes
-*.terrainlayer
-*.terraindata
-*.tif
-*.brush
-*.tiff
-
-*.exr
-*.pdf
-*.lighting
-*.psd
-*.flare
-*pdf
-*.shadersubgraph
-#Their meta file
-
-
-
-
-
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
